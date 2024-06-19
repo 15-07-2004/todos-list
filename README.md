@@ -1,7 +1,9 @@
-Overview
+Overview:
+
 Welcome to the Basic React Development Repository! This repository is designed to provide a comprehensive guide to mastering React development through practical examples and projects. Whether you're new to React or seeking to solidify your understanding, this repository covers fundamental concepts and best practices essential for building robust React applications.
 
-Introduction
+Introduction:
+
 The repository focuses on fundamental concepts such as hooks, components (both functional and class-based, including lifecycle methods), context API for state management, props for data passing and validation, event handling and binding, routing with React Router (basic, nested, and dynamic routing), and rendering techniques like conditional rendering and list rendering.
 
 Topics Covered
